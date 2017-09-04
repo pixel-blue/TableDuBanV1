@@ -2327,3 +2327,7 @@ section[data-section="menu"] {
     max-width: 100%;
   }
 }
+
+.probootstrap-footer {
+    text-align: center
+}
