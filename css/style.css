@@ -38,10 +38,6 @@ h1 {
 #activite_def{
   text-align: center;
 }
-#icon{
-  margin-left: 20%;
-  height: 150px;
-}
 h2 {
   font-size: 36px;
 }
@@ -757,7 +753,6 @@ section[data-section="menu"] {
   background: #000000;
   padding: 7em 0;
   color: rgba(255, 255, 255, 0.7);
-  text-align: center
 }
 
 @media screen and (max-width: 768px) {

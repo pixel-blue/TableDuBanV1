@@ -8,4 +8,12 @@
 
 .probootstrap-footer {
     text-align: center
-}}
+}
+
+.activity-card {
+    text-align: center;
+}
+
+.activity-card > img {
+    height: 150px;
+}
